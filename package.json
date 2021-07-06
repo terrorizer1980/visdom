@@ -36,7 +36,7 @@
     "d3-drag": "^1.2.4",
     "d3-polygon": "^1.0.5",
     "d3-selection": "^1.4.0",
-    "d3-zoom": "^1.8.3",
+    "d3-zoom": "^3.0.0",
     "debounce": "^1.2.0",
     "fast-json-patch": "^2.2.1",
     "fetch": "^1.1.0",
