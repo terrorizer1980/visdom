@@ -31,7 +31,7 @@
   },
   "dependencies": {
     "create-react-class": "^15.6.3",
-    "css-loader": "^3.2.0",
+    "css-loader": "^4.0.0",
     "d3-dispatch": "^1.0.5",
     "d3-drag": "^1.2.4",
     "d3-polygon": "^1.0.5",
@@ -52,7 +52,7 @@
     "react-grid-layout": "0.16.6",
     "react-modal": "^3.10.1",
     "react-resize-detector": "^4.2.1",
-    "style-loader": "^0.20.1",
+    "style-loader": "^1.1.4",
     "three": "^0.105.2"
   },
   "husky": {
